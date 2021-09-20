@@ -1,2 +1,5 @@
 # hello-word
-first
+
+Hi there!
+
+this is mnga
